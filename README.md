@@ -18,14 +18,18 @@ A collection of resources to study Transformers in depth.
 - [Peter Bloem](http://www.peterbloem.nl/blog/transformers)
 
 
-## Lectures
+## Lectures and Talks
 - [fastai Introduction to Transformers](https://www.youtube.com/watch?v=AFkGPmU16QA)
 - [Stanford CS224u](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
 - [Stanford CS224n](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1211s)
+- [Lukasz Kaiser's Talk](https://www.youtube.com/watch?v=rBCqOTEfxvg&t=1075s)
+
 
 
 ## Code Walkthroughs 
-- [AISC Code Review](https://www.youtube.com/watch?v=KMY2Knr4iAs)
+- [AISC Video Recording of Code Review in PyTorch](https://www.youtube.com/watch?v=KMY2Knr4iAs)
+- [Transformers in TensorFlow 2.0](https://www.tensorflow.org/beta/tutorials/text/transformer)
+
 
 
 ## Follow-Up Papers
