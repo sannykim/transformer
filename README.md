@@ -16,6 +16,7 @@ A collection of resources to study Transformers in depth.
 ## Blog Posts
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Peter Bloem](http://www.peterbloem.nl/blog/transformers)
+- [Lilian Weng](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
 
 ## Lectures and Talks
