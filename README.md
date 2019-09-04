@@ -34,8 +34,12 @@ A collection of resources to study Transformers in depth.
 
 
 ## Follow-Up Papers
-- TransformerXL, Evolved Transformer
-- Image Transformer, Music Transformer, TTS Transformer
+- [TransformerXL](https://arxiv.org/abs/1901.02860)
+- [Evolved Transformer](https://arxiv.org/abs/1901.11117)
+- [Image Transformer](https://arxiv.org/abs/1802.05751)
+- [Music Transformer](https://arxiv.org/abs/1809.04281)
+- [TTS Transformer](https://arxiv.org/abs/1809.08895)
+- [Sparse Transformer](https://arxiv.org/abs/1904.10509)
 - BERT, UniLM, XLNet, MASS
 - Adapative Attention Spans, All Attention Layers, Large Memory Layers with Product Keys
 
