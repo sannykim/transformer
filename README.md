@@ -40,12 +40,12 @@ A collection of resources to study Transformers in depth.
 - [Music Transformer](https://arxiv.org/abs/1809.04281)
 - [TTS Transformer](https://arxiv.org/abs/1809.08895)
 - [Sparse Transformer](https://arxiv.org/abs/1904.10509)
+- [Levenshtein Transformer](https://arxiv.org/abs/1905.11006)
 - [BERT](https://arxiv.org/abs/1810.04805)
 - [UniLM](https://arxiv.org/abs/1905.03197)
 - [XLNet](https://arxiv.org/abs/1906.08237)
 - [MASS](https://arxiv.org/abs/1905.02450)
 - [Adapative Attention Spans](https://arxiv.org/abs/1905.07799)
-- [MASS](https://arxiv.org/abs/1905.02450)
 - [All Attention Layers](https://arxiv.org/abs/1907.01470)
 - [Large Memory Layers with Product Keys](https://arxiv.org/abs/1907.05242)
 
