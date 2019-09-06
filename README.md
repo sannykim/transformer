@@ -24,6 +24,7 @@ A collection of resources to study Transformers in depth.
 - [Stanford CS224u](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
 - [Stanford CS224n](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1211s)
 - [Lukasz Kaiser's Talk](https://www.youtube.com/watch?v=rBCqOTEfxvg&t=1075s)
+- [NUS Lecutre on Transformers](https://www.youtube.com/watch?v=yCdl2afW88k&t=764s)
 
 
 
