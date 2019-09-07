@@ -50,4 +50,15 @@ A collection of resources to study Transformers in depth.
 - [All Attention Layers](https://arxiv.org/abs/1907.01470)
 - [Large Memory Layers with Product Keys](https://arxiv.org/abs/1907.05242)
 
+### BERT
+- [Jacob Devlin's ICML Talk](https://videoken.com/embed/uN4PKDp5HOU?tocitem=4)
+- [AISC](https://www.youtube.com/watch?v=BhlOGGzC0Q0)
+- [Yannic Kilcher](https://www.youtube.com/watch?v=-9evrZnBorM)
+- [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
+
+
+### Transformer XL
+
+
+
 
