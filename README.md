@@ -57,8 +57,9 @@ A collection of resources to study Transformers in depth.
 - [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
 
 
-### Transformer XL
-
-
-
+### Transformer XL and XLNet
+- [AISC Review of Transformer XL](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
+- [Microsoft Reading Group on Transformer XL](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
+- [Yannic Kilcher](https://www.youtube.com/watch?v=H5vpBCLo74U)
+- [NLP Breakfasts' Overview of XLNet](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
 
