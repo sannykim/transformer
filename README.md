@@ -43,6 +43,8 @@ A collection of resources to study Transformers in depth.
 - [Sparse Transformer](https://arxiv.org/abs/1904.10509)
 - [Levenshtein Transformer](https://arxiv.org/abs/1905.11006)
 - [BERT](https://arxiv.org/abs/1810.04805)
+- [GPT-1](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - [UniLM](https://arxiv.org/abs/1905.03197)
 - [XLNet](https://arxiv.org/abs/1906.08237)
 - [MASS](https://arxiv.org/abs/1905.02450)
@@ -55,6 +57,13 @@ A collection of resources to study Transformers in depth.
 - [AISC](https://www.youtube.com/watch?v=BhlOGGzC0Q0)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=-9evrZnBorM)
 - [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
+
+
+### GPT-1 and GPT-2
+- [OpenAI's GPT-1 Blog Post](https://openai.com/blog/language-unsupervised/)
+- [OpenAI's GPT-2 Blog Post](https://openai.com/blog/better-language-models/)
+- [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
+- [Alec Radford's Guest Lecture on Language Models](https://www.youtube.com/watch?v=GEtbD6pqTTE&t=2057s)
 
 
 ### Transformer XL and XLNet
