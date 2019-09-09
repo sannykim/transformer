@@ -57,6 +57,7 @@ A collection of resources to study Transformers in depth.
 - [AISC](https://www.youtube.com/watch?v=BhlOGGzC0Q0)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=-9evrZnBorM)
 - [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
+- [Chris McCormick's BERT Tutorial](http://jalammar.github.io/illustrated-bert/)
 
 
 ### GPT-1 and GPT-2
@@ -64,6 +65,7 @@ A collection of resources to study Transformers in depth.
 - [OpenAI's GPT-2 Blog Post](https://openai.com/blog/better-language-models/)
 - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 - [Alec Radford's Guest Lecture on Language Models](https://www.youtube.com/watch?v=GEtbD6pqTTE&t=2057s)
+- [Yannic Kilcher](https://www.youtube.com/watch?v=u1_qMdb0kYU)
 
 
 ### Transformer XL and XLNet
