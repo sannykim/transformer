@@ -57,7 +57,9 @@ A collection of resources to study Transformers in depth.
 - [AISC](https://www.youtube.com/watch?v=BhlOGGzC0Q0)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=-9evrZnBorM)
 - [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
-- [Chris McCormick's BERT Tutorial](http://jalammar.github.io/illustrated-bert/)
+- [Yashu Seth's BERT FAQ](https://yashuseth.blog/2019/06/12/bert-explained-faqs-understand-bert-working/)
+- [Chris McCormick's BERT Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
+- [Chris McCormick's BERT Fine-Tuning Tutorial](https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 
 
 ### GPT-1 and GPT-2
