@@ -32,10 +32,12 @@ Beyond blog posts and paper reviews, you can also find some amazing lectures & t
 
 
 ## Code Walkthroughs 
-One of the best ways to understand a concept is implementing it in code. Harvard NLP published an annotated version of the original paper with commented-out code in PyTorch, which is discussed in one of the recorded AISC sessions linked below. If you prefer TensorFlow, there is also a TensorFlow 2.0 Tutorial with a Colab notebook that you can run for free. 
+One of the best ways to understand a concept is implementing it in code. Harvard NLP published an annotated version of the original paper with commented-out code in PyTorch, which is discussed in one of the recorded AISC sessions linked below. If you prefer TensorFlow, there is also a TensorFlow 2.0 Tutorial with a Colab notebook that you can run for free. Once you're comfortable with the basic concepts, check out the NAACL Tutorial on Transfer Learning, which has an amazing Colab that teaches you how to pre-train a GPT2-like Transformer, fine-tune it and do multi-task learning as well as an amazing slide deck full of information about recent developments in Transfer Learning for Natural Language Processing. 
 - [Harvard NLP's The Annotated Transformer](https://www.youtube.com/watch?v=KMY2Knr4iAs)
 - [AISC Video Recording of Code Review in PyTorch](https://www.youtube.com/watch?v=KMY2Knr4iAs)
 - [Transformers in TensorFlow 2.0](https://www.tensorflow.org/beta/tutorials/text/transformer)
+- [NAACL Tutorial Slides](http://tiny.cc/NAACLTransfer)
+- [NAACL Tutorial Colab](http://tiny.cc/NAACLTransferColab)
 
 
 
