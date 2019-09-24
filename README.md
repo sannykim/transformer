@@ -6,7 +6,7 @@ A collection of resources to study Transformers in depth.
 
 
 ## Paper Reviews
-If you want easily comprehensible overview of the paper, Yannic Kilcher's video is great. For a more discussion-based introduction to Transformers, take a look at AISC's or Microsoft Reading Group's recording. Lastly, Rachel from Kaggle has a 3-part series/livestream, where she reads and tries to understand the paper, while responding to viewers' questions.  
+If you want an easily comprehensible overview of the paper, Yannic Kilcher's video is a great starting point. For a more discussion-based introduction to Transformers, take a look at AISC's or Microsoft Reading Group's recording. Lastly, Rachel from Kaggle has a 3-part series/livestream, where she reads and tries to understand the paper, while responding to viewers' questions.  
 
 - [AISC Transformer Overview](https://www.youtube.com/watch?time_continue=2175&v=S0KakHcj_rs)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro)
@@ -22,13 +22,14 @@ Besides paper reviews, there are also incredible blog posts available. Jay Alamm
 
 
 ## Lectures and Talks
-Beyond blog posts and paper reviews, you can also find some amazing lectures and talks on Transformers and self-attention online. Stanford CS224u 
+Beyond blog posts and paper reviews, you can also find some amazing lectures and talks on Transformers and self-attention online. Stanford CS224u's lecture goes into more details on the math, BERT and other contextual vectors, whereas the Stanford CS224n guest lecture (by the co-authors of the Transformer and Music Transformer) cover various use cases of self-attention. Rachel (and Jeremy) from fast.ai give another great overview of Transformer, but also answer some of the common confusions around Transformers such as the query, key, value system and address its application to language translation.
+Finally, if you want to hear more from the co-authors of the Transformer, Lukasz Kaiser and Ashish Vaswani each gave a wonderful talk on their work at Pi School 2017 and RAAIS 2019.
+   
 - [Stanford CS224u](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
 - [Stanford CS224n](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1211s)
-- [fastai Introduction to Transformers](https://www.youtube.com/watch?v=AFkGPmU16QA)
+- [fastai Introduction to Transformers](https://www.youtube.com/watch?v=AFkGPmU16QA&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=18&t=848s)
 - [Lukasz Kaiser's Talk](https://www.youtube.com/watch?v=rBCqOTEfxvg&t=1075s)
-- [NUS Lecture on Transformers](https://www.youtube.com/watch?v=yCdl2afW88k&t=764s)
-
+- [Ashish Vaswani's Talk](https://www.youtube.com/watch?v=rBCqOTEfxvg&t=1075s)
 
 
 ## Code Walkthroughs 
@@ -67,14 +68,12 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Chris McCormick's BERT Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
 - [Chris McCormick's BERT Fine-Tuning Tutorial](https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 
-
 ### GPT-1 and GPT-2
 - [OpenAI's GPT-1 Blog Post](https://openai.com/blog/language-unsupervised/)
 - [OpenAI's GPT-2 Blog Post](https://openai.com/blog/better-language-models/)
 - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 - [Alec Radford's Guest Lecture on Language Models](https://www.youtube.com/watch?v=GEtbD6pqTTE&t=2057s)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=u1_qMdb0kYU)
-
 
 ### Transformer XL and XLNet
 - [AISC Review of Transformer XL](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
