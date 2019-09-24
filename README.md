@@ -15,15 +15,14 @@ If you want an easily comprehensible overview of the paper, Yannic Kilcher's vid
 
 
 ## Blog Posts
-Besides paper reviews, there are also incredible blog posts available. Jay Alammar's "The Illustrated Transformer", with its simple explanations and intuitive visualizations, is the best place to start understanding the different parts of the Transformer such as self-attention, the encoder-decoder architecture and positional encoding. From there, I would read Peter Bloem's blog post, which is one of the most well-written I've encountered so far, with clear wording, beautiful graphics and understandable code. It goes into further detail on the self-attention mechanism and variations of the Transformer, while also providing accompanying PyTorch code. If you want to know more about different types of attention, head to Lilian Weng's blog. 
+Besides paper reviews, there are also incredible blog posts available. Jay Alammar's "The Illustrated Transformer", with its simple explanations and intuitive visualizations, is the best place to start understanding the different parts of the Transformer such as self-attention, the encoder-decoder architecture and positional encoding. From there, I would read Peter Bloem's blog post, which is one of the most well-written pieces I've encountered so far, with clear wording, beautiful graphics and understandable code. It goes into further detail on the self-attention mechanism and variations of the Transformer, while also providing accompanying PyTorch code. If you want to know more about different types of attention, head to Lilian Weng's blog. 
 - [Jay Alammar - The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Peter Bloem - Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 - [Lilian Weng - Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
 
 ## Lectures and Talks
-Beyond blog posts and paper reviews, you can also find some amazing lectures and talks on Transformers and self-attention online. Stanford CS224u's lecture goes into more details on the math, BERT and other contextual vectors, whereas the Stanford CS224n guest lecture (by the co-authors of the Transformer and Music Transformer) cover various use cases of self-attention. Rachel (and Jeremy) from fast.ai give another great overview of Transformer, but also answer some of the common confusions around Transformers such as the query, key, value system and address its application to language translation.
-Finally, if you want to hear more from the co-authors of the Transformer, Lukasz Kaiser and Ashish Vaswani each gave a wonderful talk on their work at Pi School 2017 and RAAIS 2019.
+Beyond blog posts and paper reviews, you can also find some amazing lectures & talks on Transformers and self-attention online. Stanford CS224u's lecture goes into more details on the math, BERT and other contextual vectors, whereas the Stanford CS224n guest lecture (by the co-authors of the Transformer and Music Transformer) cover various use cases of self-attention. Rachel (and Jeremy) from fast.ai give another great overview of Transformer in their Intro To NLP course, but also answer some of the common confusions around Transformers such as the query, key, value system and address its application to language translation. Finally, if you want to hear more from the co-authors of the Transformer, Lukasz Kaiser and Ashish Vaswani each gave a wonderful talk on their work at Pi School 2017 and RAAIS 2019 respectively.
    
 - [Stanford CS224u](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
 - [Stanford CS224n](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1211s)
@@ -33,7 +32,7 @@ Finally, if you want to hear more from the co-authors of the Transformer, Lukasz
 
 
 ## Code Walkthroughs 
-One of the best ways to understand a concept is implementing it in code. Harvard NLP published an annotated version of the original paper with commented-out code, which is discussed in one of the recorded AISC sessions linked below. If you prefer TensorFlow, there is also a TensorFlow 2.0 Tutorial with a Colab notebook that you can run for free. 
+One of the best ways to understand a concept is implementing it in code. Harvard NLP published an annotated version of the original paper with commented-out code in PyTorch, which is discussed in one of the recorded AISC sessions linked below. If you prefer TensorFlow, there is also a TensorFlow 2.0 Tutorial with a Colab notebook that you can run for free. 
 - [Harvard NLP's The Annotated Transformer](https://www.youtube.com/watch?v=KMY2Knr4iAs)
 - [AISC Video Recording of Code Review in PyTorch](https://www.youtube.com/watch?v=KMY2Knr4iAs)
 - [Transformers in TensorFlow 2.0](https://www.tensorflow.org/beta/tutorials/text/transformer)
