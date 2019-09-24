@@ -19,6 +19,7 @@ Besides paper reviews, there are also incredible blog posts available. Jay Alamm
 - [Jay Alammar - The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Peter Bloem - Transformers from scratch](http://www.peterbloem.nl/blog/transformers)
 - [Lilian Weng - Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+- [Alexander Rush - The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 
 ## Lectures and Talks
