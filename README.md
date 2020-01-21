@@ -42,7 +42,8 @@ One of the best ways to understand a concept is implementing it in code. Harvard
 
 
 ## Follow-Up Papers
-Since the original paper was published, there has been a massive wave of papers building on the Transformer. Most notably, BERT, GPT-2 and XLNet. 
+Since the original paper was published, there has been a massive wave of papers building on the Transformer. Most notably, BERT, GPT-2, XLNet and Reformer. 
+- [Reformer](https://openreview.net/forum?id=rkgNKkHtvB)
 - [TransformerXL](https://arxiv.org/abs/1901.02860)
 - [Evolved Transformer](https://arxiv.org/abs/1901.11117)
 - [Image Transformer](https://arxiv.org/abs/1802.05751)
@@ -81,4 +82,5 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Microsoft Reading Group on Transformer XL](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=H5vpBCLo74U)
 - [NLP Breakfasts' Overview of XLNet](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
+
 
