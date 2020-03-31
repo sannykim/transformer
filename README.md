@@ -49,6 +49,7 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Image Transformer](https://arxiv.org/abs/1802.05751)
 - [Music Transformer](https://arxiv.org/abs/1809.04281)
 - [TTS Transformer](https://arxiv.org/abs/1809.08895)
+- [Set Transformer](https://arxiv.org/abs/1810.00825)
 - [Sparse Transformer](https://arxiv.org/abs/1904.10509)
 - [Levenshtein Transformer](https://arxiv.org/abs/1905.11006)
 - [BERT](https://arxiv.org/abs/1810.04805)
