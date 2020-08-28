@@ -55,6 +55,7 @@ Since the original paper was published, there has been a massive wave of papers 
 - [BERT](https://arxiv.org/abs/1810.04805)
 - [GPT-1](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [GPT-3](https://arxiv.org/abs/2005.14165)
 - [UniLM](https://arxiv.org/abs/1905.03197)
 - [XLNet](https://arxiv.org/abs/1906.08237)
 - [MASS](https://arxiv.org/abs/1905.02450)
@@ -71,12 +72,14 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Chris McCormick's BERT Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
 - [Chris McCormick's BERT Fine-Tuning Tutorial](https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 
-### GPT-1 and GPT-2
+### GPT-1, GPT-2 and GPT-3
 - [OpenAI's GPT-1 Blog Post](https://openai.com/blog/language-unsupervised/)
 - [OpenAI's GPT-2 Blog Post](https://openai.com/blog/better-language-models/)
 - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 - [Alec Radford's Guest Lecture on Language Models](https://www.youtube.com/watch?v=GEtbD6pqTTE&t=2057s)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=u1_qMdb0kYU)
+- [How GPT-3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+- [OpenAI GPT-3 API](https://openai.com/blog/openai-api/)
 
 ### Transformer XL and XLNet
 - [AISC Review of Transformer XL](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
