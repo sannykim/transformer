@@ -43,6 +43,7 @@ One of the best ways to understand a concept is implementing it in code. Harvard
 
 ## Follow-Up Papers
 Since the original paper was published, there has been a massive wave of papers building on the Transformer. Most notably, BERT, GPT-2, XLNet and Reformer. 
+- [Linformer](https://arxiv.org/abs/2006.04768)
 - [Reformer](https://openreview.net/forum?id=rkgNKkHtvB)
 - [TransformerXL](https://arxiv.org/abs/1901.02860)
 - [Evolved Transformer](https://arxiv.org/abs/1901.11117)
@@ -77,7 +78,8 @@ Since the original paper was published, there has been a massive wave of papers 
 - [OpenAI's GPT-2 Blog Post](https://openai.com/blog/better-language-models/)
 - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 - [Alec Radford's Guest Lecture on Language Models](https://www.youtube.com/watch?v=GEtbD6pqTTE&t=2057s)
-- [Yannic Kilcher](https://www.youtube.com/watch?v=u1_qMdb0kYU)
+- [Yannic Kilcher on GPT-2](https://www.youtube.com/watch?v=u1_qMdb0kYU)
+- [Yannic Kilcher on GPT-3](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 - [How GPT-3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 - [OpenAI GPT-3 API](https://openai.com/blog/openai-api/)
 
