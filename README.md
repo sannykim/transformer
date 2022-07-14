@@ -23,7 +23,8 @@ Besides paper reviews, there are also incredible blog posts available. Jay Alamm
 
 ## Lectures and Talks
 Beyond blog posts and paper reviews, you can also find some amazing lectures & talks on Transformers and self-attention online. Stanford CS224u's lecture goes into more details on the math, BERT and other contextual vectors, whereas the Stanford CS224n guest lecture (by the co-authors of the Transformer and Music Transformer) cover various use cases of self-attention. Rachel (and Jeremy) from fast.ai give another great overview of Transformer in their Intro To NLP course, but also answer some of the common confusions around Transformers such as the query, key, value system and address its application to language translation. Finally, if you want to hear more from the co-authors of the Transformer, Lukasz Kaiser and Ashish Vaswani each gave a wonderful talk on their work at Pi School 2017 and RAAIS 2019 respectively.
-   
+
+- [Stanford CS25: Transformers United](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
 - [Stanford CS224u](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
 - [Stanford CS224n](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1211s)
 - [fastai Introduction to Transformers](https://www.youtube.com/watch?v=AFkGPmU16QA&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=18&t=848s)
