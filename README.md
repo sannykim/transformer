@@ -64,6 +64,7 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Adapative Attention Spans](https://arxiv.org/abs/1905.07799)
 - [All Attention Layers](https://arxiv.org/abs/1907.01470)
 - [Large Memory Layers with Product Keys](https://arxiv.org/abs/1907.05242)
+- [Formal Algorithms for Transformers](https://arxiv.org/pdf/2207.09238.pdf)
 
 ### BERT
 - [Jacob Devlin's ICML Talk](https://videoken.com/embed/uN4PKDp5HOU?tocitem=4)
