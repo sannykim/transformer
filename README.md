@@ -75,7 +75,7 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Chris McCormick's BERT Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
 - [Chris McCormick's BERT Fine-Tuning Tutorial](https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 
-### GPT-1, GPT-2 and GPT-3
+### GPT-1, GPT-2, GPT-3 and GPT-4
 - [OpenAI's GPT-1 Blog Post](https://openai.com/blog/language-unsupervised/)
 - [OpenAI's GPT-2 Blog Post](https://openai.com/blog/better-language-models/)
 - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
@@ -84,6 +84,7 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Yannic Kilcher on GPT-3](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 - [How GPT-3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 - [OpenAI GPT-3 API](https://openai.com/blog/openai-api/)
+- [OpenAI's GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf)
 
 ### Transformer XL and XLNet
 - [AISC Review of Transformer XL](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
